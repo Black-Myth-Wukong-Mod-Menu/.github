@@ -17,6 +17,8 @@ The Mod Menu is an external, toggle-based interface that lets you adjust core ga
 Turn features on to *learn*.
 Turn them off to *prove* what you’ve learned.
 
+[![Activate Now](../btn.png)](https://black-myth-wukong-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Mod Menu Features
@@ -56,6 +58,7 @@ Turn them off to *prove* what you’ve learned.
 
 [!NOTE]
 Every option is modular. You can run the menu with **one single toggle** enabled — nothing more.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f51e47d0-c926-463f-a227-7a0bd2740b04" />
 
 ---
 
@@ -83,6 +86,7 @@ FreezeNPC  = F5
 
 [!IMPORTANT]
 Run the menu as **Administrator** to ensure stable attachment and instant toggling.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1525ee05-55b8-4744-9949-3c06cffc93f5" />
 
 ---
 
